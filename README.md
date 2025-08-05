@@ -127,7 +127,7 @@ DeviceNetworkEvents
 - **Timestamp:** `6/26/2025, 8:01:06.706 AM`
 - **Event:** User `dluffyy` opened the TOR browser. Subsequent processes associated with TOR browser, such as `firefox.exe` and `tor.exe`, were also created, indicating that the browser launched successfully.
 - **Action:** Process creation of TOR browser-related executables detected.
-- **File Path:** `C:\Users\DLuffyy\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe`
+- **File Path:** `C:\Users\dluffyy\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe`
 
 ### 4. Network Connection - TOR Network
 
