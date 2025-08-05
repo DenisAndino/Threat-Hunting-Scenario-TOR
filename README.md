@@ -120,7 +120,7 @@ DeviceNetworkEvents
 - **Event:** The user "dluffyy" executed the file `tor-browser-windows-x86_64-portable-14.5.4.exe  /S` in silent mode, initiating a background installation of the TOR Browser.
 - **Action:** Process creation detected.
 - **Command:** `tor-browser-windows-x86_64-portable-14.5.4.exe  /S`
-- **File Path:** `tor-browser-windows-x86_64-portable-14.5.4.exe  /S`
+- **File Path:** `C:\Users\dluffyy\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe`
 
 ### 3. Process Execution - TOR Browser Launch
 
@@ -135,7 +135,7 @@ DeviceNetworkEvents
 - **Event:** A network connection to IP `103.251.167.20` on port `9001` by user `dluffyy` was established using `tor.exe`, confirming TOR browser network activity.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
-- **File Path:** `c:\users\employee\desktop\tor browser\browser\torbrowser\tor\tor.exe`
+- **File Path:** `c:\users\dluffyy\desktop\tor browser\browser\torbrowser\tor\tor.exe`
 
 ### 5. Additional Network Connections - TOR Browser Activity
 
